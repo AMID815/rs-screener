@@ -1,0 +1,705 @@
+{
+  "date": "20260713",
+  "status": "executed",
+  "index": {
+    "merged_10": -20.4944,
+    "window_start_10": "20260630",
+    "merged_20": -22.1895,
+    "window_start_20": "20260616"
+  },
+  "universe_count": 199,
+  "universe_fetched_date": "20260714",
+  "windows": {
+    "10": {
+      "strong": [
+        {
+          "code": "073240",
+          "name": "금호타이어",
+          "merged_return": 40.9449,
+          "trading_value_eok": 816.0,
+          "rs": 61.4393,
+          "rank": 1
+        },
+        {
+          "code": "010950",
+          "name": "S-Oil",
+          "merged_return": 35.0436,
+          "trading_value_eok": 1142.8,
+          "rs": 55.538,
+          "rank": 2
+        },
+        {
+          "code": "105560",
+          "name": "KB금융",
+          "merged_return": 19.1299,
+          "trading_value_eok": 4522.4,
+          "rs": 39.6243,
+          "rank": 3
+        },
+        {
+          "code": "161890",
+          "name": "한국콜마",
+          "merged_return": 18.5261,
+          "trading_value_eok": 640.2,
+          "rs": 39.0205,
+          "rank": 4
+        },
+        {
+          "code": "078930",
+          "name": "GS",
+          "merged_return": 18.1278,
+          "trading_value_eok": 506.8,
+          "rs": 38.6222,
+          "rank": 5
+        },
+        {
+          "code": "192820",
+          "name": "코스맥스",
+          "merged_return": 16.9416,
+          "trading_value_eok": 212.6,
+          "rs": 37.436,
+          "rank": 6
+        },
+        {
+          "code": "005830",
+          "name": "DB손해보험",
+          "merged_return": 16.1314,
+          "trading_value_eok": 538.8,
+          "rs": 36.6258,
+          "rank": 7
+        },
+        {
+          "code": "086790",
+          "name": "하나금융지주",
+          "merged_return": 14.8052,
+          "trading_value_eok": 1775.5,
+          "rs": 35.2996,
+          "rank": 8
+        },
+        {
+          "code": "007070",
+          "name": "GS리테일",
+          "merged_return": 14.1631,
+          "trading_value_eok": 63.1,
+          "rs": 34.6575,
+          "rank": 9
+        },
+        {
+          "code": "111770",
+          "name": "영원무역",
+          "merged_return": 13.557,
+          "trading_value_eok": 62.1,
+          "rs": 34.0514,
+          "rank": 10
+        },
+        {
+          "code": "175330",
+          "name": "JB금융지주",
+          "merged_return": 13.1313,
+          "trading_value_eok": 187.6,
+          "rs": 33.6257,
+          "rank": 11
+        },
+        {
+          "code": "096770",
+          "name": "SK이노베이션",
+          "merged_return": 12.7943,
+          "trading_value_eok": 1687.5,
+          "rs": 33.2887,
+          "rank": 12
+        },
+        {
+          "code": "180640",
+          "name": "한진칼",
+          "merged_return": 12.3826,
+          "trading_value_eok": 361.3,
+          "rs": 32.877,
+          "rank": 13
+        },
+        {
+          "code": "069620",
+          "name": "대웅제약",
+          "merged_return": 12.2881,
+          "trading_value_eok": 50.4,
+          "rs": 32.7825,
+          "rank": 14
+        },
+        {
+          "code": "280360",
+          "name": "롯데웰푸드",
+          "merged_return": 11.5942,
+          "trading_value_eok": 18.8,
+          "rs": 32.0886,
+          "rank": 15
+        },
+        {
+          "code": "008930",
+          "name": "한미사이언스",
+          "merged_return": 11.4478,
+          "trading_value_eok": 87.2,
+          "rs": 31.9422,
+          "rank": 16
+        },
+        {
+          "code": "138040",
+          "name": "메리츠금융지주",
+          "merged_return": 11.4286,
+          "trading_value_eok": 393.3,
+          "rs": 31.923,
+          "rank": 17
+        },
+        {
+          "code": "323410",
+          "name": "카카오뱅크",
+          "merged_return": 11.2172,
+          "trading_value_eok": 326.0,
+          "rs": 31.7116,
+          "rank": 18
+        },
+        {
+          "code": "001450",
+          "name": "현대해상",
+          "merged_return": 11.0951,
+          "trading_value_eok": 218.7,
+          "rs": 31.5895,
+          "rank": 19
+        },
+        {
+          "code": "139130",
+          "name": "iM금융지주",
+          "merged_return": 10.7599,
+          "trading_value_eok": 80.8,
+          "rs": 31.2543,
+          "rank": 20
+        }
+      ],
+      "weak": [
+        {
+          "code": "009150",
+          "name": "삼성전기",
+          "merged_return": -37.8795,
+          "trading_value_eok": 17939.1,
+          "rs": -17.3851,
+          "rank": 1
+        },
+        {
+          "code": "093370",
+          "name": "후성",
+          "merged_return": -33.6559,
+          "trading_value_eok": 470.5,
+          "rs": -13.1615,
+          "rank": 2
+        },
+        {
+          "code": "000660",
+          "name": "SK하이닉스",
+          "merged_return": -29.2561,
+          "trading_value_eok": 156532.4,
+          "rs": -8.7617,
+          "rank": 3
+        },
+        {
+          "code": "011070",
+          "name": "LG이노텍",
+          "merged_return": -28.6177,
+          "trading_value_eok": 3267.0,
+          "rs": -8.1233,
+          "rank": 4
+        },
+        {
+          "code": "402340",
+          "name": "SK스퀘어",
+          "merged_return": -28.1115,
+          "trading_value_eok": 13499.3,
+          "rs": -7.6171,
+          "rank": 5
+        },
+        {
+          "code": "062040",
+          "name": "산일전기",
+          "merged_return": -27.5906,
+          "trading_value_eok": 481.6,
+          "rs": -7.0962,
+          "rank": 6
+        },
+        {
+          "code": "454910",
+          "name": "두산로보틱스",
+          "merged_return": -25.7415,
+          "trading_value_eok": 385.8,
+          "rs": -5.2471,
+          "rank": 7
+        },
+        {
+          "code": "042660",
+          "name": "한화오션",
+          "merged_return": -25.3788,
+          "trading_value_eok": 1574.1,
+          "rs": -4.8844,
+          "rank": 8
+        },
+        {
+          "code": "034730",
+          "name": "SK",
+          "merged_return": -25.2564,
+          "trading_value_eok": 1421.9,
+          "rs": -4.762,
+          "rank": 9
+        },
+        {
+          "code": "450080",
+          "name": "에코프로머티",
+          "merged_return": -24.1062,
+          "trading_value_eok": 210.3,
+          "rs": -3.6118,
+          "rank": 10
+        },
+        {
+          "code": "028260",
+          "name": "삼성물산",
+          "merged_return": -23.5979,
+          "trading_value_eok": 2117.1,
+          "rs": -3.1035,
+          "rank": 11
+        },
+        {
+          "code": "000990",
+          "name": "DB하이텍",
+          "merged_return": -23.0716,
+          "trading_value_eok": 473.6,
+          "rs": -2.5772,
+          "rank": 12
+        },
+        {
+          "code": "010120",
+          "name": "LS ELECTRIC",
+          "merged_return": -22.3158,
+          "trading_value_eok": 1938.3,
+          "rs": -1.8214,
+          "rank": 13
+        },
+        {
+          "code": "001440",
+          "name": "대한전선",
+          "merged_return": -22.0386,
+          "trading_value_eok": 592.1,
+          "rs": -1.5442,
+          "rank": 14
+        },
+        {
+          "code": "005930",
+          "name": "삼성전자",
+          "merged_return": -21.3292,
+          "trading_value_eok": 84551.3,
+          "rs": -0.8348,
+          "rank": 15
+        },
+        {
+          "code": "042700",
+          "name": "한미반도체",
+          "merged_return": -21.1132,
+          "trading_value_eok": 1367.1,
+          "rs": -0.6188,
+          "rank": 16
+        },
+        {
+          "code": "307950",
+          "name": "현대오토에버",
+          "merged_return": -20.6522,
+          "trading_value_eok": 402.3,
+          "rs": -0.1578,
+          "rank": 17
+        },
+        {
+          "code": "032830",
+          "name": "삼성생명",
+          "merged_return": -20.098,
+          "trading_value_eok": 1349.4,
+          "rs": 0.3964,
+          "rank": 18
+        },
+        {
+          "code": "004170",
+          "name": "신세계",
+          "merged_return": -19.81,
+          "trading_value_eok": 363.6,
+          "rs": 0.6844,
+          "rank": 19
+        },
+        {
+          "code": "069960",
+          "name": "현대백화점",
+          "merged_return": -19.7663,
+          "trading_value_eok": 275.4,
+          "rs": 0.7281,
+          "rank": 20
+        }
+      ],
+      "excluded": [
+        {
+          "code": "002840",
+          "reason": "low_liquidity"
+        },
+        {
+          "code": "071320",
+          "reason": "low_liquidity"
+        },
+        {
+          "code": "137310",
+          "reason": "low_liquidity"
+        },
+        {
+          "code": "268280",
+          "reason": "low_liquidity"
+        }
+      ]
+    },
+    "20": {
+      "strong": [
+        {
+          "code": "073240",
+          "name": "금호타이어",
+          "merged_return": 41.2229,
+          "trading_value_eok": 816.0,
+          "rs": 63.4124,
+          "rank": 1
+        },
+        {
+          "code": "161890",
+          "name": "한국콜마",
+          "merged_return": 29.8206,
+          "trading_value_eok": 640.2,
+          "rs": 52.0101,
+          "rank": 2
+        },
+        {
+          "code": "010950",
+          "name": "S-Oil",
+          "merged_return": 22.7993,
+          "trading_value_eok": 1142.8,
+          "rs": 44.9888,
+          "rank": 3
+        },
+        {
+          "code": "069620",
+          "name": "대웅제약",
+          "merged_return": 9.1433,
+          "trading_value_eok": 50.4,
+          "rs": 31.3328,
+          "rank": 4
+        },
+        {
+          "code": "192820",
+          "name": "코스맥스",
+          "merged_return": 8.9888,
+          "trading_value_eok": 212.6,
+          "rs": 31.1783,
+          "rank": 5
+        },
+        {
+          "code": "008930",
+          "name": "한미사이언스",
+          "merged_return": 8.8816,
+          "trading_value_eok": 87.2,
+          "rs": 31.0711,
+          "rank": 6
+        },
+        {
+          "code": "090430",
+          "name": "아모레퍼시픽",
+          "merged_return": 7.9929,
+          "trading_value_eok": 388.3,
+          "rs": 30.1824,
+          "rank": 7
+        },
+        {
+          "code": "009420",
+          "name": "한올바이오파마",
+          "merged_return": 7.1845,
+          "trading_value_eok": 194.6,
+          "rs": 29.374,
+          "rank": 8
+        },
+        {
+          "code": "105560",
+          "name": "KB금융",
+          "merged_return": 6.6438,
+          "trading_value_eok": 4522.4,
+          "rs": 28.8333,
+          "rank": 9
+        },
+        {
+          "code": "007070",
+          "name": "GS리테일",
+          "merged_return": 5.9761,
+          "trading_value_eok": 63.1,
+          "rs": 28.1656,
+          "rank": 10
+        },
+        {
+          "code": "138040",
+          "name": "메리츠금융지주",
+          "merged_return": 5.3105,
+          "trading_value_eok": 393.3,
+          "rs": 27.5,
+          "rank": 11
+        },
+        {
+          "code": "005830",
+          "name": "DB손해보험",
+          "merged_return": 4.878,
+          "trading_value_eok": 538.8,
+          "rs": 27.0675,
+          "rank": 12
+        },
+        {
+          "code": "078930",
+          "name": "GS",
+          "merged_return": 4.6053,
+          "trading_value_eok": 506.8,
+          "rs": 26.7948,
+          "rank": 13
+        },
+        {
+          "code": "207940",
+          "name": "삼성바이오로직스",
+          "merged_return": 3.7806,
+          "trading_value_eok": 643.9,
+          "rs": 25.9701,
+          "rank": 14
+        },
+        {
+          "code": "180640",
+          "name": "한진칼",
+          "merged_return": 3.7037,
+          "trading_value_eok": 361.3,
+          "rs": 25.8932,
+          "rank": 15
+        },
+        {
+          "code": "081660",
+          "name": "미스토홀딩스",
+          "merged_return": 2.9647,
+          "trading_value_eok": 54.2,
+          "rs": 25.1542,
+          "rank": 16
+        },
+        {
+          "code": "055550",
+          "name": "신한지주",
+          "merged_return": 2.8409,
+          "trading_value_eok": 1518.3,
+          "rs": 25.0304,
+          "rank": 17
+        },
+        {
+          "code": "086790",
+          "name": "하나금융지주",
+          "merged_return": 2.7907,
+          "trading_value_eok": 1775.5,
+          "rs": 24.9802,
+          "rank": 18
+        },
+        {
+          "code": "111770",
+          "name": "영원무역",
+          "merged_return": 2.6699,
+          "trading_value_eok": 62.1,
+          "rs": 24.8594,
+          "rank": 19
+        },
+        {
+          "code": "175330",
+          "name": "JB금융지주",
+          "merged_return": 2.5641,
+          "trading_value_eok": 187.6,
+          "rs": 24.7536,
+          "rank": 20
+        }
+      ],
+      "weak": [
+        {
+          "code": "011070",
+          "name": "LG이노텍",
+          "merged_return": -48.7597,
+          "trading_value_eok": 3267.0,
+          "rs": -26.5702,
+          "rank": 1
+        },
+        {
+          "code": "093370",
+          "name": "후성",
+          "merged_return": -44.9107,
+          "trading_value_eok": 470.5,
+          "rs": -22.7212,
+          "rank": 2
+        },
+        {
+          "code": "042700",
+          "name": "한미반도체",
+          "merged_return": -42.6778,
+          "trading_value_eok": 1367.1,
+          "rs": -20.4883,
+          "rank": 3
+        },
+        {
+          "code": "011790",
+          "name": "SKC",
+          "merged_return": -41.9908,
+          "trading_value_eok": 213.1,
+          "rs": -19.8013,
+          "rank": 4
+        },
+        {
+          "code": "307950",
+          "name": "현대오토에버",
+          "merged_return": -41.6,
+          "trading_value_eok": 402.3,
+          "rs": -19.4105,
+          "rank": 5
+        },
+        {
+          "code": "018880",
+          "name": "한온시스템",
+          "merged_return": -39.7548,
+          "trading_value_eok": 211.1,
+          "rs": -17.5653,
+          "rank": 6
+        },
+        {
+          "code": "454910",
+          "name": "두산로보틱스",
+          "merged_return": -38.7238,
+          "trading_value_eok": 385.8,
+          "rs": -16.5343,
+          "rank": 7
+        },
+        {
+          "code": "009150",
+          "name": "삼성전기",
+          "merged_return": -36.8756,
+          "trading_value_eok": 17939.1,
+          "rs": -14.6861,
+          "rank": 8
+        },
+        {
+          "code": "001430",
+          "name": "세아베스틸지주",
+          "merged_return": -36.7816,
+          "trading_value_eok": 30.9,
+          "rs": -14.5921,
+          "rank": 9
+        },
+        {
+          "code": "450080",
+          "name": "에코프로머티",
+          "merged_return": -36.4957,
+          "trading_value_eok": 210.3,
+          "rs": -14.3062,
+          "rank": 10
+        },
+        {
+          "code": "042660",
+          "name": "한화오션",
+          "merged_return": -36.4003,
+          "trading_value_eok": 1574.1,
+          "rs": -14.2108,
+          "rank": 11
+        },
+        {
+          "code": "022100",
+          "name": "포스코DX",
+          "merged_return": -35.4905,
+          "trading_value_eok": 112.2,
+          "rs": -13.301,
+          "rank": 12
+        },
+        {
+          "code": "272210",
+          "name": "한화시스템",
+          "merged_return": -35.3113,
+          "trading_value_eok": 431.3,
+          "rs": -13.1218,
+          "rank": 13
+        },
+        {
+          "code": "267260",
+          "name": "HD현대일렉트릭",
+          "merged_return": -34.9835,
+          "trading_value_eok": 1386.6,
+          "rs": -12.794,
+          "rank": 14
+        },
+        {
+          "code": "062040",
+          "name": "산일전기",
+          "merged_return": -34.9425,
+          "trading_value_eok": 481.6,
+          "rs": -12.753,
+          "rank": 15
+        },
+        {
+          "code": "204320",
+          "name": "HL만도",
+          "merged_return": -34.072,
+          "trading_value_eok": 413.9,
+          "rs": -11.8825,
+          "rank": 16
+        },
+        {
+          "code": "000990",
+          "name": "DB하이텍",
+          "merged_return": -32.8277,
+          "trading_value_eok": 473.6,
+          "rs": -10.6382,
+          "rank": 17
+        },
+        {
+          "code": "298040",
+          "name": "효성중공업",
+          "merged_return": -32.6427,
+          "trading_value_eok": 1067.7,
+          "rs": -10.4532,
+          "rank": 18
+        },
+        {
+          "code": "005380",
+          "name": "현대차",
+          "merged_return": -31.4815,
+          "trading_value_eok": 3998.6,
+          "rs": -9.292,
+          "rank": 19
+        },
+        {
+          "code": "010120",
+          "name": "LS ELECTRIC",
+          "merged_return": -31.4126,
+          "trading_value_eok": 1938.3,
+          "rs": -9.2231,
+          "rank": 20
+        }
+      ],
+      "excluded": [
+        {
+          "code": "002840",
+          "reason": "low_liquidity"
+        },
+        {
+          "code": "071320",
+          "reason": "low_liquidity"
+        },
+        {
+          "code": "137310",
+          "reason": "low_liquidity"
+        },
+        {
+          "code": "268280",
+          "reason": "low_liquidity"
+        }
+      ]
+    }
+  },
+  "error": null,
+  "spec": "코스피200 상대강도 v2.0 고정창 (스펙 2026-07-08)",
+  "generated_at": "2026-07-14T12:28:56+09:00"
+}
