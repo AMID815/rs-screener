@@ -3,7 +3,7 @@
    데이터 계약: docs/web-data-contract.md (스크리너 프로젝트) — v2 windows+big_value 스키마.
    windows 키는 하드코딩하지 않고 순회(RS_WINDOWS 설정 변화 대응). */
 
-const DATA_URL = "https://raw.githubusercontent.com/AMID815/rs-screener/data/rs-latest.json";
+const DATA_URL = "https://raw.githubusercontent.com/AMID815/hwangnyong/data/rs-latest.json";
 const IDX_ORDER = ["201", "401", "150", "772"]; // 지수 표시 순서 — 그 외 코드는 뒤에
 const TIER_ORDER = ["1000", "700"];             // 표시 순서 — 데이터에 있는 것만 노출
 const TIER_LABEL = { "1000": "1,000억+", "700": "700억+" };
