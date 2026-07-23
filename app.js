@@ -66,9 +66,9 @@ function renderHeader() {
     const m = im["merged_" + n], ws = im["window_start_" + n];
     if (m == null) return "";
     return `<div class="stat ${m >= 0 ? "up" : "down"}">
-      <div class="k">${esc(idxLabel(idx))} 몸통 · ${n}캔들</div>
-      <div class="v num">${sign(m)}<span style="font-size:14px">%</span></div>
-      <div class="cap">${ws ? shortDate(ws) + " 시가 → 오늘 종가" : ""}</div></div>`;
+      <div class="k">몸통 · ${n}캔들</div>
+      <div class="v num">${sign(m)}<span style="font-size:13px">%</span></div>
+      <div class="cap">${ws ? shortDate(ws) + " 시가 기준" : ""}</div></div>`;
   }).join("");
 }
 

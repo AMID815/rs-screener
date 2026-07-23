@@ -44,14 +44,17 @@ header{background:var(--bg);
   box-shadow:0 0 8px var(--up)}
 h1{font-size:21px;font-weight:800;letter-spacing:-.02em;margin:5px 0 2px}
 .meta{font-size:12px;color:var(--dim)}
-.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
-  gap:8px;margin-top:13px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(0,1fr));
+  gap:6px;margin-top:13px}  /* 창 개수만큼 균등 분할 — 항상 1줄 (3창 대응) */
 .stats:empty{display:none}
 .stat{background:var(--surface);border:1px solid var(--border);
-  border-radius:12px;padding:10px 12px;position:relative;overflow:hidden}
-.stat .k{font-size:11px;color:var(--dim);font-weight:600;letter-spacing:.02em}
-.stat .v{font-size:22px;font-weight:800;letter-spacing:-.02em;margin-top:2px}
-.stat .cap{font-size:10.5px;color:var(--faint);margin-top:1px}
+  border-radius:12px;padding:9px 10px;position:relative;overflow:hidden}
+.stat .k{font-size:10.5px;color:var(--dim);font-weight:600;letter-spacing:.02em;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.stat .v{font-size:19px;font-weight:800;letter-spacing:-.02em;margin-top:2px;
+  white-space:nowrap}
+.stat .cap{font-size:10px;color:var(--faint);margin-top:1px;white-space:nowrap;
+  overflow:hidden;text-overflow:ellipsis}
 .stat.down .v{color:var(--down)} .stat.up .v{color:var(--up)}
 
 /* controls — 헤더는 스크롤되고 버튼은 상단 고정 */
